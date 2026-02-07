@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksEFCoreApp", "BooksEFCoreApp\BooksEFCoreApp.csproj", "{E234E275-9EF2-4E32-884B-F496D537C48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E234E275-9EF2-4E32-884B-F496D537C48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E234E275-9EF2-4E32-884B-F496D537C48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E234E275-9EF2-4E32-884B-F496D537C48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E234E275-9EF2-4E32-884B-F496D537C48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000DC1FC-840D-47B0-9899-E8EE77F071EF}
+	EndGlobalSection
+EndGlobal
